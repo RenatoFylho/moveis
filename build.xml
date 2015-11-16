@@ -1,5 +1,5 @@
 
-<project name="jenkins moveis">
+<project name="jenkins-moveis">
 	
 	<path id="tests.classpath" path=".">
 		<fileset dir="lib/">
